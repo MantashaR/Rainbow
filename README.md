@@ -1,0 +1,1 @@
+This C++ program uses the Turbo C++ BGI graphics library to draw multiple concentric circles (rainbow). By increasing the radius in steps and adding a delay between each circle, the program creates a simple animated rainbow-like expanding pattern. It demonstrates basic use of graphics.h, screen initialization
